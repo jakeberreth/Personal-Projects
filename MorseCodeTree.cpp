@@ -1,6 +1,6 @@
 //FILE FOR BST CLASS Function Definitions
 
-#include "BST.h"
+#include "MorseCodeTree.h"
 
 //constructor
 BST::BST()
