@@ -4,7 +4,7 @@ Project: Morse Code Converter
 Date: October 28, 2019
 *********************************************************/
 
-#include "BST.h"
+#include "MorseCodeTree.h"
 
 int main()
 {
