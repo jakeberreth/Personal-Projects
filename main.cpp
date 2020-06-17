@@ -1,9 +1,8 @@
-/********************************************************
-Name:            Jake Berreth, Reece Menzel
-Class:           Cpt_S 122; Fall, 2019; Lab Section 02
-PA 8:            Graphics: Galaga
-Date Completed:  12/05/2019
-*********************************************************/
+/***************************************
+Name: Jake Berreth, Reece Menzel
+Project: Space Invaders Graphical Game     
+Date:  December 5, 2019
+****************************************/
 
 #include <SFML/Audio.hpp>
 #include <SFML/Config.hpp>
