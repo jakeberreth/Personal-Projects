@@ -4,8 +4,8 @@ Project: Digital Music Manager
 Date: September 19, 2019
 *********************************************************/
 
-#include "PA2.h"
-#include "PA2Tests.h"
+#include "DigitalMusicManager.h"
+#include "DigitalMusicManagerTests.h"
 
 int main()
 {
