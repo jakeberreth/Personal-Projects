@@ -1,0 +1,53 @@
+.mat-elevation-z4 {
+  width: 330px;
+  display: inline-block;
+}
+
+.content {
+  padding-top: 20px;
+  padding-left: 22px;
+}
+
+.content2 {
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.content3 {
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+img {
+  max-width: 300px;
+  height: 200px;
+  padding-top: 20px;
+  padding-left: 32px;
+}
+
+.header {
+  background-color: darkgreen;
+}
+
+.title {
+  color: white;
+  padding-top: 20px;
+}
+
+.subtitle {
+  color: white;
+}
+
+.footer {
+  padding-left: 133px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: darkgreen;
+}
+
+button {
+  background-color: goldenrod;
+  color: darkgreen;
+  position: center;
+}
+
