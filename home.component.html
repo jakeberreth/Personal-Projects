@@ -1,0 +1,61 @@
+<div class="content" fxLayout="row wrap">
+  <!-- it is the fxLayoutGap that is causing the scroll. When it is 0, there is no scroll -->
+  <div class="content">
+      <mat-card class="mat-elevation-z4">
+        <mat-card-header class="header">
+          <mat-card-title class="title">
+            Improve Your Skills
+          </mat-card-title>
+          <mat-card-subtitle class="subtitle">
+            With daily challenges!
+          </mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image src="https://pixabay.com/get/57e8d6464b55a514f6da8c7dda29307c1139dae2504c704c7c2b7ed59748c559_1280.jpg"/>
+        <mat-card-footer class="footer">
+          <button mat-raised-button (click)="onClickPractice()" class="button">
+            Practice
+          </button>
+        </mat-card-footer>
+      </mat-card>
+    </div>
+
+   <div class="content2">
+      <mat-card class="mat-elevation-z4">
+        <mat-card-header class="header">
+          <mat-card-title class="title">
+            Practice Music Scales
+          </mat-card-title>
+          <mat-card-subtitle class="subtitle">
+            And have fun doing it!
+          </mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image src="https://pixabay.com/get/55e0dc434852a814f6d1867dda29307c1139dae2504c704c7c2b7ed59545c251_1920.jpg"/>
+        <mat-card-footer class="footer">
+          <button mat-raised-button (click)="onClickGetStarted()" class="button">
+            Get Started
+          </button>
+        </mat-card-footer>
+      </mat-card>
+    </div>
+
+    <div class="content3">
+      <mat-card class="mat-elevation-z4">
+        <mat-card-header class="header">
+          <mat-card-title class="title">
+            Track Your Progress
+          </mat-card-title>
+          <mat-card-subtitle class="subtitle">
+            And set new goals!
+          </mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image src="https://pixabay.com/get/54e8d6434f54ad14f6d1867dda29307c1139dae2504c704c7c2b7ed5954ec25b_1920.jpg"/>
+        <mat-card-footer class="footer">
+          <button mat-raised-button (click)="onClickProgress()" class="button">
+            Progress
+          </button>
+        </mat-card-footer>
+      </mat-card>
+    </div>
+
+  </div>
+
